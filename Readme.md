@@ -28,7 +28,6 @@
   </div>
   <br>
   <br><br><br><br><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jupiter83&theme=moonlight" width="100%"/>
 </p>
 
 <hr>
