@@ -5,7 +5,7 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I'm Jupiter83, Full Stack && Blockchain && Mobile Developer.
+  Hi, I'm Full Stack && Blockchain && Mobile Developer.
   <br>
 </p>
 
