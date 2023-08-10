@@ -25,8 +25,7 @@
  ## Contact me
 - 📫 How to reach me:
   
-  skype ID: live:.cid.979cfe3c590a55e5 </br>
-  discord: https://discord.gg/vFQG7ArsDK </br>
+  skype ID: live:.cid.7273d493eb0e941f </br>
 
 <h1 font-weight="bold">
   📮 How to reach me
@@ -37,7 +36,7 @@
 <!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> -->
-  <a href="https://join.skype.com/invite/w8sdCjfUJmrT" target="_blank">
+  <a href="https://join.skype.com/invite/Cqn043nYaFl7" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 <!--   <a href="https://t.me/kendson" target="_blank">
