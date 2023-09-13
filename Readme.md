@@ -48,7 +48,7 @@
   <a href="https://join.skype.com/invite/Cqn043nYaFl7" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-  <a href="https://tel/CodeWizard" target="_blank">
+  <a href="https://www.telegram.org/CodeWizard" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 <!--   <a href="https://t.me/kendson" target="_blank">
