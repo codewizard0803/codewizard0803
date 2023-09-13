@@ -24,7 +24,7 @@
 <!--Skill And More Information-->
  ## Contact me
 - 📫 How to reach me:
-  Telegram: CodeWizard
+  Telegram: CodeWizard </br>
   skype ID: live:.cid.7273d493eb0e941f </br>
 
 <h1 font-weight="bold">
