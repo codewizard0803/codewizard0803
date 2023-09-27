@@ -34,7 +34,7 @@
  ## Contact me
 - 📫 How to reach me: </br>
      Telegram: @codewizard83 </br>
-     Discord: codewizard83
+     Discord: codewizard83 </br>
      skype ID: live:.cid.7273d493eb0e941f </br>
 
 <h1 font-weight="bold">
