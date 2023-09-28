@@ -30,33 +30,3 @@
 </p>
 <hr>
 
-<!--Skill And More Information-->
- ## Contact me
-- 📫 How to reach me: </br>
-     Telegram: @codewizard83 </br>
-     Discord: codewizard83 </br>
-     skype ID: live:.cid.7273d493eb0e941f </br>
-
-<h1 font-weight="bold">
-  📮 How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
-
-<p align='center'>
-<!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a> -->
-  <a href="https://join.skype.com/invite/Cqn043nYaFl7" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
-  <a href="https://www.telegram.org" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-<!--   <a href="https://t.me/kendson" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a> -->
-</p>
-
